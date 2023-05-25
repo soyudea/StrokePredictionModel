@@ -8,3 +8,6 @@ https://www.kaggle.com/competitions/playground-series-s3e2/data?select=train.csv
 Dirección del video
 https://www.youtube.com/watch?v=CfkHxPMptiY
 
+Dirección video entrega final
+https://www.youtube.com/watch?v=F3ZOPrwxypo
+
